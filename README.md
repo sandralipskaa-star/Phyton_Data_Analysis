@@ -54,7 +54,7 @@ Each jupiter notebook for this project aimed at investigating specific aspects o
 
 ## 1. What are the skills most in demand for the top 5 most popular data roles?
 ---
-To find the most demanded skills for the top 5 most popular data roles. I filtered out those positions by which ones were the most popular, and got the top 5 skills for these top 3 roles. This query highlights the most popular job titles and their top skills, showing which skills pay attention to depending on the role I'm targeting.
+To find the most demanded skills for the top 5 most popular data roles. I filtered out those positions by which ones were the most popular, and got the top 5 skills for these top 5 roles. This query highlights the most popular job titles and their top skills, showing which skills pay attention to depending on the role I'm targeting.
 
 View my netobook with detailed steps here:[2_Skills_Count](2_Skills_Count.jypnb)
 
